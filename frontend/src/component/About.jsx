@@ -20,7 +20,7 @@ function About() {
             <div className='flex text-[18px] items-center justify-center gap-[20px]'>About Us <TfiLayoutLineSolid className='w-[40px] h-[40px]'/> </div>
             <div className='md:text-[45px] text-[35px] font-semibold'>We Are Maximize Your Learning Growth</div>
 
-            <div className='text-[15px]'>We provide a modern Learning Management System to simplify online education, track progress, and enhance student-instructor collaboration efficiently.</div>
+            <div className='text-[15px]'>We provide a modern Learning Managements System to simplify online education, track progress, and enhance student-instructor collaboration efficiently.</div>
 
             <div className='w-[100%] lg:w-[60%]'>
                 <div className='flex items-center justify-between  mt-[40px]'>
