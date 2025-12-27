@@ -17,7 +17,7 @@ app.use(express.json())
 app.use(cors({
    origin: [
     "http://localhost:5173",
-    "https://logincodelmsfrontend.vercel.app"
+    "https://logincodelms.vercel.app"
   ],
   methods: ["GET", "POST"],
   credentials: true
